@@ -9,7 +9,7 @@ This project aims to **predict used car prices** using historical listings and v
 
 ## Important Links
 
-[Coupons Dataset](https://github.com/amitkushwaha2000/AIML_11.1_Car_Price/blob/main/vehicles.rar)
+[Used Cars Dataset](https://github.com/amitkushwaha2000/AIML_11.1_Car_Price/blob/main/vehicles.rar)
 
 [Jupyter Notebook](https://github.com/amitkushwaha2000/AIML_11.1_Car_Price/blob/main/prompt_II_AK.ipynb)
 
